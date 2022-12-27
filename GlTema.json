@@ -3,7 +3,7 @@
 {"user_id": 27, "value": "https://i.ibb.co/9y7Y09N/984786.jpg","id": 2163, "name": "app_background_image"},
 {"user_id": 27, "value": "https://telegra.ph/file/1ed9638af638835b956f1.png", "id": 2386, "name": "app_logo"},
 {"user_id": 27, "value": "#00000000", "id": 2165, "name": "background_color"},
-{"user_id": 27, "value": "#66000000", "id": 39, "name": "card_color"},
+{"user_id": 27, "value": "#99000000", "id": 39, "name": "card_color"},
 {"user_id": 27, "value": "#FFFFFF", "id": 40, "name": "text_color"},
 {"user_id": 27, "value": "#0EACFF", "id": 41, "name": "button_color"},
 {"user_id": 27, "value": "#FFFFFF", "id": 42, "name": "icon_color"},
